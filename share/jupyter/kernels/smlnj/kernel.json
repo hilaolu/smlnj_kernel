@@ -1,0 +1,11 @@
+{
+    "display_name": "SML/NJ",
+    "language": "SML",
+    "argv": [
+        "python",
+        "kernel.py",
+        "-f",
+        "{connection_file}"
+    ],
+    "codemirror_mode": "scheme"
+}
